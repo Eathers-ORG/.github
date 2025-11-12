@@ -71,12 +71,6 @@ Contact **melüt** on Discord to become part of the Eathers community!
 
 ---
 
-## 📂 Our Projects
-
-🚧 *Coming Soon* — Stay tuned for our upcoming releases!
-
----
-
 ## 🇹🇷 Türkçe
 
 **Eathers**, Minecraft evreninde yenilikçi fikirler ve projeler geliştiren bir topluluktur. Oyun deneyimini sıradanın ötesine taşımak için teknik yeteneklerimizi ve yaratıcılığımızı birleştiriyoruz.
